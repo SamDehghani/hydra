@@ -9,4 +9,4 @@ This file has been submitted by [SamDehghani](https://github.com/SamDehghani)
 honeybee, archi-lab, dynamo, daylight, revit
 
 ### Thumbnail
-![Screenshot](https://raw.githubusercontent.com/SamDehghani/hydra/master/Bake_Honeybee_Daylight_Results_from_Dynamo_to_Revit/thumbnail.png)
+![Screenshot](https://raw.githubusercontent.com/SamDehghani/hydra/master/Bake_Honeybee_Daylight_Results_from_Dynamo_to_Revit/thumbnail.PNG)
